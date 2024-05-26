@@ -1,0 +1,5 @@
+// lib/background_fetch_init_web.dart
+
+void initializeBackgroundFetch() {
+  // No background fetch implementation for the web
+}
